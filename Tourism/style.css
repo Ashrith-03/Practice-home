@@ -1,0 +1,19 @@
+
+
+.container{
+	background-color: pink;
+}
+
+input:invalid {
+  border: 1px solid red;
+}
+
+input:valid {
+  border: 1px solid green;
+}
+
+ .form-control{
+ 	padding-left: 20px;
+ 	padding-right: 20px;
+
+ }
